@@ -29,5 +29,5 @@
 #
 # Packet Sniffing
 ### airodump-ng wlan0mon
-#### it will display all network around you to quit cltr-c
+>it will display all network around you to quit cltr-c
 ### 
