@@ -7,9 +7,7 @@
 >now we Changed the MAC address to Attack
 ### ifconfig wlan0 up 
 >now interface is enabled you can see the new address
-# 
-#
-#
+---
 # Setting up Monitor Mode 
 ### ifconfig wlan0 down 
 ### airmon-ng check kill
